@@ -14,7 +14,7 @@ Installation
 Binary packages for Mac OS X and Debian derivatives are available
 via [GitHub releases][rel].
 
-[rel]: https://github.com/solvespace/solvespace/releases
+[rel]: https://github.com/whitequark/solvespace/releases
 
 ### Other systems
 
